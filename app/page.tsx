@@ -1,4 +1,5 @@
 import { FileText, Image, Scissors, Upload } from 'lucide-react'
+import Link from 'next/link'; // Import the Link component
 import ToolCard from '@/components/ToolCard'
 
 export default function Home() {
