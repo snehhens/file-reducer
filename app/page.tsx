@@ -6,6 +6,16 @@ export default function Home() {
     <main className="min-h-screen bg-gradient-to-br from-purple-400 to-indigo-600 p-6 md:p-24">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
+           {/* Add the Link component here */}
+      <Link
+        href="https://myportfolio.ovrlzy.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button className="bg-gray-100 text-black px-4 py-2 rounded-full hover:bg-gray-200 transition-colors duration-300">
+          Snehens
+        </button>
+      </Link><br></br><br></br>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">File Reducer</h1>
           <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto">
             Reduce your file size instantly in your browser. 
