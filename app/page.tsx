@@ -17,9 +17,10 @@ export default function Home() {
           Snehens
         </button>
       </Link><br></br><br></br>
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">File Reducer</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-2">Reduce file size.</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Not quality.</h1>
           <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto">
-            Reduce your file size instantly in your browser. 
+          No crappy ads, Reduce your file size instantly in your browser. 
             We don't store any data - everything happens locally and securely on your device.
           </p>
         </div>
